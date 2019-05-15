@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Macam Macam Layouting</string>
+    <string name="linear">Linear Layout</string>
+    <string name="relative">Relative Layout</string>
+    <string name="scrollview">Scroll View</string>
+    <string name="constraint">Constraint Layout</string>
+    <string name="frame">Frame Layout</string>
+    <string name="menu">Menu Layout</string>
+
+</resources>
